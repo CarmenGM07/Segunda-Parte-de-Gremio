@@ -1,0 +1,2 @@
+INSERT INTO `aventureros` (`id`, `usuario`, `nombre`, `clase`, `password_hash`, `creado_en`) 
+VALUES (NULL, 'carmen', 'Brunhilda', 'Guerrera', '$2y$10$6qk6YZcCH7saHfBcbwDc.uNTSupm419ypilfV5ZDrAEUr1sHRb6Tu', CURRENT_TIMESTAMP);
